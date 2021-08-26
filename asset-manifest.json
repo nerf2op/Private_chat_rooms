@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Private_chat_rooms/static/css/main.ef3edba2.chunk.css",
+    "main.js": "/Private_chat_rooms/static/js/main.2d3eff95.chunk.js",
+    "main.js.map": "/Private_chat_rooms/static/js/main.2d3eff95.chunk.js.map",
+    "runtime-main.js": "/Private_chat_rooms/static/js/runtime-main.aba3a21b.js",
+    "runtime-main.js.map": "/Private_chat_rooms/static/js/runtime-main.aba3a21b.js.map",
+    "static/css/2.f83b9687.chunk.css": "/Private_chat_rooms/static/css/2.f83b9687.chunk.css",
+    "static/js/2.4cbbd875.chunk.js": "/Private_chat_rooms/static/js/2.4cbbd875.chunk.js",
+    "static/js/2.4cbbd875.chunk.js.map": "/Private_chat_rooms/static/js/2.4cbbd875.chunk.js.map",
+    "static/js/3.de6d7686.chunk.js": "/Private_chat_rooms/static/js/3.de6d7686.chunk.js",
+    "static/js/3.de6d7686.chunk.js.map": "/Private_chat_rooms/static/js/3.de6d7686.chunk.js.map",
+    "index.html": "/Private_chat_rooms/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/Private_chat_rooms/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.ef3edba2.chunk.css.map": "/Private_chat_rooms/static/css/main.ef3edba2.chunk.css.map",
+    "static/js/2.4cbbd875.chunk.js.LICENSE.txt": "/Private_chat_rooms/static/js/2.4cbbd875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba3a21b.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.4cbbd875.chunk.js",
+    "static/css/main.ef3edba2.chunk.css",
+    "static/js/main.2d3eff95.chunk.js"
+  ]
+}
